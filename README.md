@@ -11,3 +11,8 @@ This repository is a "fork" of [SendSignal](https://web.archive.org/web/20170305
 
 My humble contribution was to add the abaility to send the ctrl-c windows signal (SIGQUIT).
 Useful, at this time, to test my shutdown hooks using Windows operating system.
+
+# Misc
+
+Softpedia referenced this peace of software in 2012... Don't know why :-)
+https://www.softpedia.com/get/System/System-Miscellaneous/WinKill.shtml
