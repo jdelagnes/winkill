@@ -1,7 +1,7 @@
 
 # Winkill (archived)
 
-Back to 2009, winKill is a cli application designed as a kill command for Windows.
+Back to 2009, winkill is a cli application designed as a kill command for Windows.
 
 The command is able to send a SIGINT (ctrl-break) or a SIGQUIT (ctrl-c) signal to a console detatched windows process.
 
